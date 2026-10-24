@@ -20,7 +20,7 @@ The robot automatically moves forward, turns left, turns right, or stops dependi
 
 ## 🔌 Circuit Diagram
 
-![Line Following Robot Circuit Diagram](circuit_diagram.webp)
+
 
 ## 📍 Pin Connections
 
