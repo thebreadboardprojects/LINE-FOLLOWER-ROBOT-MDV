@@ -102,10 +102,6 @@ You can adjust this value according to your robot's performance and motor requir
 - L298N Motor Driver
 - DC Motors
 
-## 📄 License
-
-This project is available for educational and personal learning purposes.
-
 ---
 
 **If you find this project useful, consider giving the repository a ⭐ on GitHub!**
