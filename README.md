@@ -56,7 +56,7 @@ The two IR sensors detect the black line and send digital signals to the Arduino
 
 ## 💻 Arduino Code
 
-The Arduino program is available in [`line_following_robot.ino`](line_following_robot.ino).
+The Arduino program is available in the below files
 
 ### Motor Speed
 
